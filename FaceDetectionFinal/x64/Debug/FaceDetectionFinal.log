@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\monirul\documents\visual studio 2015\projects\facedetectionfinal\facedetectionfinal\main.cpp(111): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monirul\documents\visual studio 2015\projects\facedetectionfinal\facedetectionfinal\main.cpp(119): warning C4129: '*': unrecognized character escape sequence
+  FaceDetectionFinal.vcxproj -> c:\users\monirul\documents\visual studio 2015\Projects\FaceDetectionFinal\x64\Debug\FaceDetectionFinal.exe
